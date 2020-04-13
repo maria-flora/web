@@ -1966,7 +1966,7 @@ input, select, textarea {
 	}
 
 /* Table */
-
+/*
 	table {
 		width: 100%;
 	}
@@ -2004,6 +2004,7 @@ input, select, textarea {
 		.dark table.default tbody tr:nth-child(2n+2) {
 			background: rgba(255, 255, 255, 0.1);
 		}
+/*
 
 /* Button */
 
