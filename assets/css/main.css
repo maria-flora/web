@@ -138,7 +138,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 600;  /* 400;  */
+		font-weight: 400; 
 		color: #3d4449;   /* inherit; */
 	}
 
