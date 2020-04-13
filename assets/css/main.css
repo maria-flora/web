@@ -138,8 +138,8 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 400;
-		color: inherit;
+		font-weight: 600;  /* 400;  */
+		color: #3d4449;   /* inherit; */
 	}
 
 	.dark strong, .dark b {
